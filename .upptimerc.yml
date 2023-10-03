@@ -9,8 +9,8 @@ sites:
     url: https://schweickart.me
   - name: blog.lukeschweickart.com
     url: https://blog.lukeschweickart.com
-  - name: Down
-    url: https://down.lukeschweickart.com
+  - name: kiondaga.org
+    url: https://kiondaga.org
 
 workflowSchedule:
   graphs: "0 0 * * *"
