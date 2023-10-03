@@ -11,8 +11,6 @@ sites:
     url: https://blog.lukeschweickart.com
   - name: kiondaga.org
     url: https://kiondaga.org
-  - name: Down
-    url: https://down.lukeschweickart.com
 
 workflowSchedule:
   graphs: "0 0 * * *"
