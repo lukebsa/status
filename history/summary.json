@@ -76,19 +76,19 @@
     "url": "https://stage.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/stage.kiondaga.org.ico",
     "slug": "stage-kiondaga-org",
-    "status": "down",
-    "uptime": "98.43%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "98.43%",
-    "time": 164,
-    "timeDay": 164,
-    "timeWeek": 164,
-    "timeMonth": 164,
-    "timeYear": 164,
+    "status": "up",
+    "uptime": "90.24%",
+    "uptimeDay": "90.24%",
+    "uptimeWeek": "90.24%",
+    "uptimeMonth": "90.24%",
+    "uptimeYear": "90.24%",
+    "time": 187,
+    "timeDay": 187,
+    "timeWeek": 187,
+    "timeMonth": 187,
+    "timeYear": 187,
     "dailyMinutesDown": {
-      "2023-11-15": 0
+      "2023-11-15": 1
     }
   },
   {
