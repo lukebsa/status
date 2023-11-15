@@ -11,6 +11,14 @@ sites:
     url: https://blog.lukeschweickart.com
   - name: kiondaga.org
     url: https://kiondaga.org
+  - name: stage.kiondaga.org
+    url: https://stage.kiondaga.org
+  - name: tradingpost.kiondaga.org
+    url: https://tradingpost.kiondaga.org
+  - name: social.kiondaga.org
+    url: https://social.kiondaga.org
+  - name: kionda.ga
+    url: https://kionda.ga
 
 workflowSchedule:
   graphs: "0 0 * * *"
@@ -19,7 +27,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/10 * * * *"
+  uptime: "*/8 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
