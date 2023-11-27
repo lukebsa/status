@@ -132,9 +132,9 @@
     "url": "https://kionda.ga",
     "icon": "https://icons.duckduckgo.com/ip3/kionda.ga.ico",
     "slug": "kionda-ga",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,6 +143,8 @@
     "timeWeek": 550,
     "timeMonth": 562,
     "timeYear": 562,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-27": 0
+    }
   }
 ]
