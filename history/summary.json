@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/schweickart.me.ico",
     "slug": "schweickart-me",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 889,
     "timeDay": 753,
     "timeWeek": 692,
     "timeMonth": 726,
     "timeYear": 889,
-    "dailyMinutesDown": {
-      "2023-12-03": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "blog.lukeschweickart.com",
@@ -80,27 +78,29 @@
     "url": "https://stage.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/stage.kiondaga.org.ico",
     "slug": "stage-kiondaga-org",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 361,
     "timeDay": 364,
     "timeWeek": 360,
     "timeMonth": 361,
     "timeYear": 361,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 2
+    }
   },
   {
     "name": "tradingpost.kiondaga.org",
     "url": "https://tradingpost.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/tradingpost.kiondaga.org.ico",
     "slug": "tradingpost-kiondaga-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +109,9 @@
     "timeWeek": 221,
     "timeMonth": 287,
     "timeYear": 287,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "social.kiondaga.org",
@@ -135,18 +137,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kionda.ga.ico",
     "slug": "kionda-ga",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 597,
     "timeDay": 508,
     "timeWeek": 613,
     "timeMonth": 597,
     "timeYear": 597,
-    "dailyMinutesDown": {
-      "2023-12-03": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
