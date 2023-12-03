@@ -24,19 +24,19 @@
     "url": "https://schweickart.me",
     "icon": "https://icons.duckduckgo.com/ip3/schweickart.me.ico",
     "slug": "schweickart-me",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
-    "time": 879,
-    "timeDay": 733,
-    "timeWeek": 699,
-    "timeMonth": 725,
-    "timeYear": 879,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 875,
+    "timeDay": 722,
+    "timeWeek": 693,
+    "timeMonth": 722,
+    "timeYear": 875,
     "dailyMinutesDown": {
-      "2023-12-03": 26
+      "2023-12-03": 33
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/kiondaga.org.ico",
     "slug": "kiondaga-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 343,
-    "timeWeek": 360,
-    "timeMonth": 367,
-    "timeYear": 347,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 346,
+    "timeDay": 336,
+    "timeWeek": 354,
+    "timeMonth": 365,
+    "timeYear": 346,
     "dailyMinutesDown": {
-      "2023-12-03": 2
+      "2023-12-03": 9
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://tradingpost.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/tradingpost.kiondaga.org.ico",
     "slug": "tradingpost-kiondaga-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 276,
-    "timeDay": 199,
-    "timeWeek": 221,
+    "timeDay": 210,
+    "timeWeek": 225,
     "timeMonth": 276,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2023-12-03": 0
+      "2023-12-03": 7
     }
   },
   {
