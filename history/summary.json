@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 786,
-    "timeDay": 607,
-    "timeWeek": 676,
-    "timeMonth": 880,
-    "timeYear": 786,
+    "time": 785,
+    "timeDay": 698,
+    "timeWeek": 701,
+    "timeMonth": 878,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2023-11-16": 15
     }
@@ -26,17 +26,17 @@
     "slug": "schweickart-me",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
-    "time": 863,
-    "timeDay": 690,
+    "time": 859,
+    "timeDay": 673,
     "timeWeek": 676,
-    "timeMonth": 712,
-    "timeYear": 863,
+    "timeMonth": 706,
+    "timeYear": 859,
     "dailyMinutesDown": {
-      "2023-12-03": 47
+      "2023-12-03": 41
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 142,
-    "timeWeek": 267,
-    "timeMonth": 595,
-    "timeYear": 440,
+    "time": 439,
+    "timeDay": 365,
+    "timeWeek": 291,
+    "timeMonth": 593,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 349,
-    "timeDay": 354,
-    "timeWeek": 363,
+    "time": 351,
+    "timeDay": 368,
+    "timeWeek": 371,
     "timeMonth": 367,
-    "timeYear": 349,
+    "timeYear": 351,
     "dailyMinutesDown": {
       "2023-12-03": 16
     }
@@ -82,18 +82,20 @@
     "url": "https://stage.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/stage.kiondaga.org.ico",
     "slug": "stage-kiondaga-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 427,
-    "timeWeek": 406,
-    "timeMonth": 389,
-    "timeYear": 389,
-    "dailyMinutesDown": {}
+    "time": 387,
+    "timeDay": 430,
+    "timeWeek": 407,
+    "timeMonth": 387,
+    "timeYear": 387,
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "tradingpost.kiondaga.org",
@@ -106,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 260,
-    "timeWeek": 255,
-    "timeMonth": 287,
-    "timeYear": 287,
+    "time": 292,
+    "timeDay": 285,
+    "timeWeek": 272,
+    "timeMonth": 292,
+    "timeYear": 292,
     "dailyMinutesDown": {}
   },
   {
@@ -124,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 182,
-    "timeWeek": 103,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "time": 163,
+    "timeDay": 215,
+    "timeWeek": 118,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   },
   {
@@ -142,11 +144,11 @@
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 610,
-    "timeDay": 590,
-    "timeWeek": 626,
-    "timeMonth": 610,
-    "timeYear": 610,
+    "time": 612,
+    "timeDay": 608,
+    "timeWeek": 638,
+    "timeMonth": 612,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2023-12-03": 37
     }
