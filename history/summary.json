@@ -60,19 +60,19 @@
     "url": "https://kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/kiondaga.org.ico",
     "slug": "kiondaga-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 345,
-    "timeWeek": 365,
-    "timeMonth": 369,
-    "timeYear": 347,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 349,
+    "timeDay": 366,
+    "timeWeek": 374,
+    "timeMonth": 372,
+    "timeYear": 349,
     "dailyMinutesDown": {
-      "2023-12-03": 0
+      "2023-12-03": 5
     }
   },
   {
@@ -134,9 +134,9 @@
     "url": "https://kionda.ga",
     "icon": "https://icons.duckduckgo.com/ip3/kionda.ga.ico",
     "slug": "kionda-ga",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,6 +145,8 @@
     "timeWeek": 658,
     "timeMonth": 618,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   }
 ]
