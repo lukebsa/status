@@ -62,19 +62,19 @@
     "url": "https://kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/kiondaga.org.ico",
     "slug": "kiondaga-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 351,
-    "timeDay": 368,
-    "timeWeek": 371,
-    "timeMonth": 367,
-    "timeYear": 351,
+    "time": 354,
+    "timeDay": 386,
+    "timeWeek": 384,
+    "timeMonth": 373,
+    "timeYear": 354,
     "dailyMinutesDown": {
-      "2023-12-03": 32
+      "2023-12-03": 35
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://tradingpost.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/tradingpost.kiondaga.org.ico",
     "slug": "tradingpost-kiondaga-org",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 292,
-    "timeDay": 285,
-    "timeWeek": 272,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 293,
+    "timeDay": 288,
+    "timeWeek": 274,
+    "timeMonth": 293,
+    "timeYear": 293,
     "dailyMinutesDown": {
-      "2023-12-03": 5
+      "2023-12-03": 9
     }
   },
   {
@@ -141,18 +141,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kionda.ga.ico",
     "slug": "kionda-ga",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.86%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 615,
     "timeDay": 615,
     "timeWeek": 641,
     "timeMonth": 615,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2023-12-03": 50
+      "2023-12-03": 37
     }
   }
 ]
