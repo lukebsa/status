@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/schweickart.me.ico",
     "slug": "schweickart-me",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "94.33%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.92%",
+    "uptimeDay": "94.89%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.92%",
     "time": 847,
     "timeDay": 671,
     "timeWeek": 674,
     "timeMonth": 702,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2023-12-04": 40,
+      "2023-12-04": 32,
       "2023-12-03": 41
     }
   },
@@ -64,18 +64,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kiondaga.org.ico",
     "slug": "kiondaga-org",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "97.09%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
     "time": 353,
     "timeDay": 377,
     "timeWeek": 377,
     "timeMonth": 371,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2023-12-04": 7,
       "2023-12-03": 35
     }
   },
@@ -105,10 +104,10 @@
     "url": "https://tradingpost.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/tradingpost.kiondaga.org.ico",
     "slug": "tradingpost-kiondaga-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "99.46%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
     "time": 293,
@@ -117,7 +116,7 @@
     "timeMonth": 293,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2023-12-04": 55
+      "2023-12-04": 57
     }
   },
   {
@@ -143,9 +142,9 @@
     "url": "https://kionda.ga",
     "icon": "https://icons.duckduckgo.com/ip3/kionda.ga.ico",
     "slug": "kionda-ga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "92.26%",
+    "uptimeDay": "92.25%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.60%",
