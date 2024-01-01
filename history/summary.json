@@ -46,9 +46,9 @@
     "url": "https://blog.lukeschweickart.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.lukeschweickart.com.ico",
     "slug": "blog-lukeschweickart-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 762,
     "timeMonth": 418,
     "timeYear": 437,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-01": 0
+    }
   },
   {
     "name": "kiondaga.org",
@@ -86,11 +88,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.kiondaga.org.ico",
     "slug": "stage-kiondaga-org",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 413,
     "timeDay": 667,
     "timeWeek": 363,
