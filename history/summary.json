@@ -24,9 +24,9 @@
     "url": "https://schweickart.me",
     "icon": "https://icons.duckduckgo.com/ip3/schweickart.me.ico",
     "slug": "schweickart-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -36,6 +36,7 @@
     "timeMonth": 795,
     "timeYear": 812,
     "dailyMinutesDown": {
+      "2024-01-14": 0,
       "2023-12-08": 17,
       "2023-12-04": 32,
       "2023-12-03": 41
@@ -47,19 +48,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.lukeschweickart.com.ico",
     "slug": "blog-lukeschweickart-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 422,
     "timeDay": 279,
     "timeWeek": 333,
     "timeMonth": 422,
     "timeYear": 422,
-    "dailyMinutesDown": {
-      "2024-01-14": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "kiondaga.org",
