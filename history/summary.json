@@ -46,9 +46,9 @@
     "url": "https://blog.lukeschweickart.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.lukeschweickart.com.ico",
     "slug": "blog-lukeschweickart-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 326,
     "timeMonth": 423,
     "timeYear": 422,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-14": 0
+    }
   },
   {
     "name": "kiondaga.org",
@@ -108,9 +110,9 @@
     "slug": "tradingpost-kiondaga-org",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 335,
     "timeDay": 185,
@@ -118,7 +120,6 @@
     "timeMonth": 372,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2024-01-14": 5,
       "2023-12-08": 32,
       "2023-12-04": 70
     }
