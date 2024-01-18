@@ -4,11 +4,11 @@
     "url": "https://lukeschweickart.com",
     "icon": "https://icons.duckduckgo.com/ip3/lukeschweickart.com.ico",
     "slug": "lukeschweickart-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1066,
     "timeDay": 813,
@@ -16,6 +16,7 @@
     "timeMonth": 1804,
     "timeYear": 1066,
     "dailyMinutesDown": {
+      "2024-01-18": 2,
       "2024-01-16": 20,
       "2023-11-16": 15
     }
@@ -25,9 +26,9 @@
     "url": "https://schweickart.me",
     "icon": "https://icons.duckduckgo.com/ip3/schweickart.me.ico",
     "slug": "schweickart-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -37,6 +38,7 @@
     "timeMonth": 2178,
     "timeYear": 1125,
     "dailyMinutesDown": {
+      "2024-01-18": 0,
       "2023-12-08": 17,
       "2023-12-04": 32,
       "2023-12-03": 41
