@@ -9,6 +9,8 @@ sites:
     url: https://schweickart.me
   - name: blog.lukeschweickart.com
     url: https://blog.lukeschweickart.com
+  - name: oweb-lukeschweickart
+    url: https://oweb3.lukeschweickart.com
   - name: kiondaga.org
     url: https://kiondaga.org
   - name: stage.kiondaga.org
