@@ -13,8 +13,6 @@ sites:
     url: https://oweb3.lukeschweickart.com
   - name: kiondaga.org
     url: https://kiondaga.org
-  - name: stage.kiondaga.org
-    url: https://stage.kiondaga.org
   - name: tradingpost.kiondaga.org
     url: https://tradingpost.kiondaga.org
   - name: social.kiondaga.org
