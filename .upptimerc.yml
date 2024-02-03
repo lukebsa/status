@@ -5,15 +5,13 @@ repo: status # The name of this repository
 sites:
   - name: lukeschweickart.com
     url: https://lukeschweickart.com
-    __dangerous__body_degraded: "Connection timed out"
+    __dangerous__body_degraded_if_text_missing: "Connect with me online!"
   - name: schweickart.me
     url: https://schweickart.me
-    __dangerous__body_degraded: "Connection timed out"
+    __dangerous__body_degraded_if_text_missing: "Connect with me online!"
   - name: blog.lukeschweickart.com
     url: https://blog.lukeschweickart.com
-    __dangerous__body_degraded: "Fatal error"
-    __dangerous__body_degraded: "critical error"
-    __dangerous__body_degraded: "Connection timed out"
+    __dangerous__body_degraded_if_text_missing: "Just another blog from a techy"
   - name: oweb-lukeschweickart
     url: https://oweb3.lukeschweickart.com
   - name: oweb-lukeschweickart-ipv6
@@ -21,14 +19,10 @@ sites:
     ipv6: true
   - name: kiondaga.org
     url: https://kiondaga.org
-    __dangerous__body_degraded: "Fatal error"
-    __dangerous__body_degraded: "critical error"
-    __dangerous__body_degraded: "Connection timed out"
+    __dangerous__body_degraded_if_text_missing: "OA Section E1"
   - name: tradingpost.kiondaga.org
     url: https://tradingpost.kiondaga.org
-    __dangerous__body_degraded: "Fatal error"
-    __dangerous__body_degraded: "critical error"
-    __dangerous__body_degraded: "Connection timed out"
+    __dangerous__body_degraded_if_text_missing: "OA Section E1"
   - name: social.kiondaga.org
     url: https://social.kiondaga.org
   - name: kionda.ga
