@@ -13,6 +13,9 @@ sites:
     __dangerous__body_degraded: "critical error"
   - name: oweb-lukeschweickart
     url: https://oweb3.lukeschweickart.com
+  - name: oweb-lukeschweickart-ipv6
+    url: https://oweb3.lukeschweickart.com
+    ipv6: true
   - name: kiondaga.org
     url: https://kiondaga.org
     __dangerous__body_degraded: "Fatal error"
