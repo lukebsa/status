@@ -22,7 +22,7 @@ sites:
     __dangerous__body_degraded_if_text_missing: "OA Section E1"
   - name: tradingpost.kiondaga.org
     url: https://tradingpost.kiondaga.org
-    __dangerous__body_degraded_if_text_missing: "All Rights Reserved - Kiondaga Lodge"
+    __dangerous__body_degraded_if_text_missing: "All Rights Reserved. Kiondaga Lodge"
   - name: social.kiondaga.org
     url: https://social.kiondaga.org
   - name: kionda.ga
