@@ -49,19 +49,19 @@
     "url": "https://blog.lukeschweickart.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.lukeschweickart.com.ico",
     "slug": "blog-lukeschweickart-com",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 380,
-    "timeDay": 190,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 379,
+    "timeDay": 195,
     "timeWeek": 197,
-    "timeMonth": 247,
-    "timeYear": 380,
+    "timeMonth": 246,
+    "timeYear": 379,
     "dailyMinutesDown": {
-      "2024-02-14": 0
+      "2024-02-14": 18
     }
   },
   {
