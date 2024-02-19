@@ -1,7 +1,7 @@
 url: https://schweickart.me
-status: up
-code: 200
-responseTime: 146
-lastUpdated: 2024-02-18T23:13:49.245Z
+status: degraded
+code: 520
+responseTime: 192
+lastUpdated: 2024-02-19T05:58:03.782Z
 startTime: 2023-10-03T04:33:25.968Z
 generator: Upptime <https://github.com/upptime/upptime>
