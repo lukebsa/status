@@ -25,9 +25,16 @@ sites:
     __dangerous__body_degraded_if_text_missing: "All Rights Reserved. Kiondaga Lodge"
   - name: social.kiondaga.org
     url: https://social.kiondaga.org
+    __dangerous__body_degraded_if_text_missing: "All Rights Reserved"
   - name: kionda.ga
     url: https://kionda.ga
     __dangerous__body_degraded: "Connection timed out"
+  - name: Kiondaga Portal (Google Sites)
+    url: https://sites.google.com/kiondaga.org/portal/ping
+    __dangerous__body_degraded_if_text_missing: "Pong"
+  - name: portal.kiondaga.org
+    url: https://portal.kiondaga.org/ping
+    __dangerous__body_degraded_if_text_missing: "Pong"
 
 workflowSchedule:
   graphs: "0 0 * * *"
