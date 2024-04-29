@@ -35,6 +35,12 @@ sites:
   - name: portal.kiondaga.org
     url: https://portal.kiondaga.org/ping
     __dangerous__body_degraded_if_text_missing: "Pong"
+  - name: linktree/kiondaga
+    url: https://linktr.ee/kiondaga
+    __dangerous__body_degraded_if_text_missing: "Upcoming Events"
+  - name: linktree/kiondagalodge
+    url: https://linktr.ee/kiondagalodge
+    __dangerous__body_degraded_if_text_missing: "Upcoming Events"
 
 workflowSchedule:
   graphs: "0 0 * * *"
