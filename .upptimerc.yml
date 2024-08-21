@@ -18,7 +18,7 @@ sites:
     url: https://oweb3.lukeschweickart.com
     ipv6: true
   - name: oweb-mail-lukeschweickart
-    url: https://mail.oweb3.lukeschweickart.com
+    url: https://mail.oweb3.lukeschweickart.com/robots.txt
   - name: kiondaga.org
     url: https://kiondaga.org
     __dangerous__body_degraded_if_text_missing: "OA Section E1"
