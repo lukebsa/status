@@ -118,18 +118,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.oweb3.lukeschweickart.com.ico",
     "slug": "oweb-mail-lukeschweickart-2",
     "status": "down",
-    "uptime": "0.57%",
-    "uptimeDay": "0.57%",
-    "uptimeWeek": "0.57%",
-    "uptimeMonth": "0.57%",
-    "uptimeYear": "0.57%",
+    "uptime": "1.03%",
+    "uptimeDay": "1.03%",
+    "uptimeWeek": "1.03%",
+    "uptimeMonth": "1.03%",
+    "uptimeYear": "1.03%",
     "time": 324,
     "timeDay": 324,
     "timeWeek": 324,
     "timeMonth": 324,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2024-08-23": 0
+      "2024-08-23": 1
     }
   },
   {
