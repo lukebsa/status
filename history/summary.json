@@ -241,18 +241,20 @@
     "url": "https://linktr.ee/kiondaga",
     "icon": "https://icons.duckduckgo.com/ip3/linktr.ee.ico",
     "slug": "linktree-kiondaga",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 85,
-    "timeWeek": 101,
-    "timeMonth": 102,
-    "timeYear": 128,
-    "dailyMinutesDown": {}
+    "time": 134,
+    "timeDay": 555,
+    "timeWeek": 216,
+    "timeMonth": 131,
+    "timeYear": 134,
+    "dailyMinutesDown": {
+      "2024-09-27": 0
+    }
   },
   {
     "name": "linktree/kiondagalodge",
