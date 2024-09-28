@@ -241,19 +241,19 @@
     "url": "https://linktr.ee/kiondaga",
     "icon": "https://icons.duckduckgo.com/ip3/linktr.ee.ico",
     "slug": "linktree-kiondaga",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.96%",
-    "uptimeDay": "93.66%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "94.65%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.96%",
     "time": 129,
-    "timeDay": 138,
-    "timeWeek": 123,
-    "timeMonth": 118,
+    "timeDay": 135,
+    "timeWeek": 122,
+    "timeMonth": 117,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2024-09-28": 90
+      "2024-09-28": 76
     }
   },
   {
