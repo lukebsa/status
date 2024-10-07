@@ -77,9 +77,9 @@
     "url": "https://oweb3.lukeschweickart.com",
     "icon": "https://icons.duckduckgo.com/ip3/oweb3.lukeschweickart.com.ico",
     "slug": "oweb-lukeschweickart",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -89,6 +89,7 @@
     "timeMonth": 189,
     "timeYear": 177,
     "dailyMinutesDown": {
+      "2024-10-07": 0,
       "2024-02-19": 19,
       "2024-01-26": 17
     }
@@ -98,9 +99,9 @@
     "url": "https://oweb3.lukeschweickart.com",
     "icon": "https://icons.duckduckgo.com/ip3/oweb3.lukeschweickart.com.ico",
     "slug": "oweb-lukeschweickart-ipv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -110,6 +111,7 @@
     "timeMonth": 33,
     "timeYear": 34,
     "dailyMinutesDown": {
+      "2024-10-07": 0,
       "2024-02-19": 19
     }
   },
