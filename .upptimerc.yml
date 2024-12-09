@@ -5,10 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: lukeschweickart.com
     url: https://lukeschweickart.com
-    __dangerous__body_degraded_if_text_missing: "Connect with me online!"
+    # __dangerous__body_degraded_if_text_missing: "Connect with me online!"
   - name: schweickart.me
     url: https://schweickart.me
-    __dangerous__body_degraded_if_text_missing: "Connect with me online!"
+    # __dangerous__body_degraded_if_text_missing: "Connect with me online!"
   - name: blog.lukeschweickart.com
     url: https://blog.lukeschweickart.com
     __dangerous__body_degraded_if_text_missing: "Just another blog from a techy"
@@ -22,7 +22,7 @@ sites:
     __dangerous__body_degraded_if_text_missing: "OA Section E1"
   - name: tradingpost.kiondaga.org
     url: https://prod-tradingpost.kiondaga.org/.well-known/ping.html
-    __dangerous__body_degraded_if_text_missing: "All Rights Reserved. Kiondaga Lodge"
+    # __dangerous__body_degraded_if_text_missing: "All Rights Reserved. Kiondaga Lodge"
   - name: social.kiondaga.org
     url: https://social.kiondaga.org
     __dangerous__body_degraded_if_text_missing: "All Rights Reserved"
