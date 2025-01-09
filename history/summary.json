@@ -199,19 +199,19 @@
     "url": "https://sites.google.com/kiondaga.org/portal/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sites.google.com.ico",
     "slug": "kiondaga-portal-google-sites",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 266,
-    "timeWeek": 258,
-    "timeMonth": 275,
+    "timeDay": 288,
+    "timeWeek": 264,
+    "timeMonth": 276,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-01-09": 0
+      "2025-01-09": 14
     }
   },
   {
