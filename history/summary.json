@@ -13,7 +13,7 @@
     "time": 432,
     "timeDay": 229,
     "timeWeek": 253,
-    "timeMonth": 238,
+    "timeMonth": 240,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2024-11-05": 25,
@@ -38,7 +38,7 @@
     "time": 449,
     "timeDay": 154,
     "timeWeek": 266,
-    "timeMonth": 261,
+    "timeMonth": 260,
     "timeYear": 395,
     "dailyMinutesDown": {
       "2024-04-05": 52,
@@ -60,7 +60,7 @@
     "time": 276,
     "timeDay": 235,
     "timeWeek": 254,
-    "timeMonth": 233,
+    "timeMonth": 236,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2024-09-08": 16,
@@ -83,7 +83,7 @@
     "time": 180,
     "timeDay": 103,
     "timeWeek": 158,
-    "timeMonth": 182,
+    "timeMonth": 185,
     "timeYear": 180,
     "dailyMinutesDown": {
       "2024-12-10": 41,
@@ -106,7 +106,7 @@
     "time": 33,
     "timeDay": 19,
     "timeWeek": 26,
-    "timeMonth": 28,
+    "timeMonth": 29,
     "timeYear": 33,
     "dailyMinutesDown": {
       "2024-10-07": 19,
@@ -127,7 +127,7 @@
     "time": 356,
     "timeDay": 291,
     "timeWeek": 332,
-    "timeMonth": 338,
+    "timeMonth": 340,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2024-01-16": 41
@@ -142,12 +142,12 @@
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 324,
     "timeDay": 325,
     "timeWeek": 277,
-    "timeMonth": 283,
+    "timeMonth": 284,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2024-12-09": 133,
@@ -170,7 +170,7 @@
     "time": 194,
     "timeDay": 173,
     "timeWeek": 209,
-    "timeMonth": 194,
+    "timeMonth": 195,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -188,7 +188,7 @@
     "time": 450,
     "timeDay": 298,
     "timeWeek": 344,
-    "timeMonth": 320,
+    "timeMonth": 322,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2024-01-16": 32
@@ -199,18 +199,20 @@
     "url": "https://sites.google.com/kiondaga.org/portal/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sites.google.com.ico",
     "slug": "kiondaga-portal-google-sites",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
     "timeDay": 266,
     "timeWeek": 258,
-    "timeMonth": 274,
+    "timeMonth": 275,
     "timeYear": 292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-09": 0
+    }
   },
   {
     "name": "portal.kiondaga.org",
@@ -226,7 +228,7 @@
     "time": 292,
     "timeDay": 226,
     "timeWeek": 262,
-    "timeMonth": 325,
+    "timeMonth": 317,
     "timeYear": 292,
     "dailyMinutesDown": {}
   },
@@ -244,7 +246,7 @@
     "time": 135,
     "timeDay": 48,
     "timeWeek": 77,
-    "timeMonth": 103,
+    "timeMonth": 92,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2024-09-28": 76
