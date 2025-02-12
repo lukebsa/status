@@ -172,19 +172,19 @@
     "url": "https://kionda.ga",
     "icon": "https://icons.duckduckgo.com/ip3/kionda.ga.ico",
     "slug": "kionda-ga",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 429,
-    "timeDay": 262,
-    "timeWeek": 314,
-    "timeMonth": 294,
-    "timeYear": 315,
+    "timeDay": 302,
+    "timeWeek": 321,
+    "timeMonth": 297,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2025-02-12": 0
+      "2025-02-12": 8
     }
   },
   {
