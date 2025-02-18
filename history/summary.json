@@ -168,18 +168,20 @@
     "url": "https://kionda.ga",
     "icon": "https://icons.duckduckgo.com/ip3/kionda.ga.ico",
     "slug": "kionda-ga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 518,
-    "timeWeek": 350,
-    "timeMonth": 310,
-    "timeYear": 318,
-    "dailyMinutesDown": {}
+    "time": 426,
+    "timeDay": 344,
+    "timeWeek": 332,
+    "timeMonth": 306,
+    "timeYear": 317,
+    "dailyMinutesDown": {
+      "2025-02-18": 0
+    }
   },
   {
     "name": "Kiondaga Portal (Google Sites)",
