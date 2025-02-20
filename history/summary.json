@@ -186,18 +186,20 @@
     "url": "https://sites.google.com/kiondaga.org/portal/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sites.google.com.ico",
     "slug": "kiondaga-portal-google-sites",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 301,
-    "timeWeek": 343,
-    "timeMonth": 297,
-    "timeYear": 292,
-    "dailyMinutesDown": {}
+    "time": 385,
+    "timeDay": 14856,
+    "timeWeek": 3977,
+    "timeMonth": 1207,
+    "timeYear": 385,
+    "dailyMinutesDown": {
+      "2025-02-20": 1
+    }
   },
   {
     "name": "portal.kiondaga.org",
