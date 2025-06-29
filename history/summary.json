@@ -64,18 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/oweb3.lukeschweickart.com.ico",
     "slug": "oweb-lukeschweickart",
     "status": "down",
-    "uptime": "90.79%",
+    "uptime": "90.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.81%",
+    "uptimeYear": "86.66%",
     "time": 181,
     "timeDay": 135,
     "timeWeek": 179,
     "timeMonth": 166,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-06-29": 97,
+      "2025-06-29": 848,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -255,9 +255,9 @@
     "url": "https://portal.kiondaga.org/ping",
     "icon": "https://icons.duckduckgo.com/ip3/portal.kiondaga.org.ico",
     "slug": "portal-kiondaga-org",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -266,7 +266,9 @@
     "timeWeek": 361,
     "timeMonth": 315,
     "timeYear": 308,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-29": 0
+    }
   },
   {
     "name": "linktree/kiondaga",
