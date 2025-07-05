@@ -1,7 +1,7 @@
 url: https://sites.google.com/kiondaga.org/portal/ping
-status: degraded
-code: 502
-responseTime: 22739
-lastUpdated: 2025-07-05T16:21:25.721Z
+status: up
+code: 200
+responseTime: 405
+lastUpdated: 2025-07-05T16:41:40.564Z
 startTime: 2024-04-28T03:20:35.258Z
 generator: Upptime <https://github.com/upptime/upptime>
