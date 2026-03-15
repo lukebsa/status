@@ -1,36 +1,76 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: lukebsa # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
+  - name: lukeschweickart.com
+    url: https://lukeschweickart.com
+    __dangerous__body_degraded_if_text_missing: "Copyright"
+  - name: schweickart.me
+    url: https://schweickart.me
+    __dangerous__body_degraded_if_text_missing: "Copyright"
+  - name: blog.lukeschweickart.com
+    url: https://blog.lukeschweickart.com
+    __dangerous__body_degraded_if_text_missing: "Just another blog from a techy"
+  - name: oweb-lukeschweickart
+    url: https://oweb3.lukeschweickart.com
+  - name: oweb-lukeschweickart-ipv6
+    url: https://oweb3.lukeschweickart.com
     ipv6: true
+  - name: kiondaga.org
+    url: https://kiondaga.org
+    __dangerous__body_degraded_if_text_missing: "OA Section E1"
+  - name: tradingpost.kiondaga.org
+    url: https://prod-tradingpost.kiondaga.org/.well-known/ping.html
+    # __dangerous__body_degraded_if_text_missing: "All Rights Reserved. Kiondaga Lodge"
+  - name: social.kiondaga.org
+    url: https://social.kiondaga.org
+    __dangerous__body_degraded_if_text_missing: "All Rights Reserved"
+  - name: kionda.ga
+    url: https://kionda.ga
+    __dangerous__body_degraded: "Connection timed out"
+  - name: Kiondaga Portal (Google Sites)
+    url: https://sites.google.com/kiondaga.org/portal/ping
+    __dangerous__body_degraded_if_text_missing: "Pong"
+  - name: portal.kiondaga.org
+    url: https://portal.kiondaga.org/ping
+    __dangerous__body_degraded_if_text_missing: "Pong"
+  - name: linktree/kiondaga
+    url: https://linktr.ee/kiondaga
+    # __dangerous__body_degraded_if_text_missing: "Upcoming Events"
+  - name: linktree/kiondagalodge
+    url: https://linktr.ee/kiondagalodge
+    # __dangerous__body_degraded_if_text_missing: "Upcoming Events"
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/8 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.lukeschweickart.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status - Luke Schweickart
+  introTitle: "**Welcome!**"
+  introMessage: Luke Schweickart's status page.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+assignees:
+  - lukebsa
+
+# fin!
