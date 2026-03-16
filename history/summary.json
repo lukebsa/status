@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/oweb3.lukeschweickart.com.ico",
     "slug": "oweb-lukeschweickart",
     "status": "up",
-    "uptime": "97.83%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "97.83%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 194,
     "timeWeek": 194,
     "timeMonth": 194,
     "timeYear": 194,
-    "dailyMinutesDown": {
-      "2026-03-16": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "oweb-lukeschweickart-ipv6",
