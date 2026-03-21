@@ -1,7 +1,7 @@
 url: https://kiondaga.org
-status: up
-code: 200
-responseTime: 338
-lastUpdated: 2026-03-20T23:32:06.917Z
+status: degraded
+code: 403
+responseTime: 70
+lastUpdated: 2026-03-21T11:48:33.736Z
 startTime: 2026-03-15T22:48:31.019Z
 generator: Upptime <https://github.com/upptime/upptime>
