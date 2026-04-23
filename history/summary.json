@@ -220,19 +220,19 @@
     "url": "https://linktr.ee/kiondagalodge",
     "icon": "https://icons.duckduckgo.com/ip3/linktr.ee.ico",
     "slug": "linktree-kiondagalodge",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 23,
-    "timeWeek": 97,
-    "timeMonth": 183,
-    "timeYear": 199,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "90.80%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.76%",
+    "time": 194,
+    "timeDay": 25,
+    "timeWeek": 88,
+    "timeMonth": 178,
+    "timeYear": 194,
     "dailyMinutesDown": {
-      "2026-04-23": 0
+      "2026-04-23": 133
     }
   }
 ]
